@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker with React JS, Material UI, Chart JS and Firebase
+# Power generation monitoring app. 
 
 ## Demo
 #### Here is a working live demo :  https://shr-crypto-hunter.netlify.app/
